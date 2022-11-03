@@ -1,0 +1,10 @@
+-> XXXX olhar o banco de curriculos do site da digitro XXXX 
+-> XXXX fazer uma tabela, ai na tabela colocar tudo -- pra ficar organizado XXXX 
+
+-> TAG ANCHOR nos nomes dos certificados -> ai poe o link pro drive (simulando igual no linkedin)
+-> TAG ANCHOR pro link do github e linkedin
+-> Primeiro dividir a página usando os <div> + width + heigth + background color. Assim, vai dar pra visualizar melhor a divisão da página e onde irei colocar x elementos
+
+https://www.freecodecamp.org/portuguese/news/como-usar-a-propriedade-position-do-css-para-alinhar-elementos/#:~:text=H%C3%A1%20v%C3%A1rias%20maneiras%2Fm%C3%A9todos%20de,CSS%20puro%3A%20a%20propriedade%20position.
+
+->

@@ -1,0 +1,67 @@
+/* 
+    Created on : 31 de out. de 2022, 17:29:07
+    Author     : Lucas
+*/
+
+/* CSS DOCUMENT */
+
+body{
+    background-color: #300944; /* Para visualizar melhor */
+}
+
+/*divisão do topo da página*/
+.cabecalho{
+    font-family: 'verdana';
+}
+
+/* definir as propriedades do topo da página, onde estará meu nome e email, github e linkedin */
+header{
+    width: 100%;
+    height: 100px;
+    position: relative;
+}
+
+.logo{
+    position: absolute;
+    width: 500px;
+    height: 100px;
+    /* background-color: yellow; */
+}
+
+.logo img{
+   width: 70%;
+   height: 100%;
+   margin-left: 30px;
+   object-fit: cover; /* Evitar distorção da imagem */
+}
+
+/* definindo a posição do menu de links (nav) */
+nav{
+    position: absolute;
+    /* background-color: green; Para visualizar melhor */
+    right: 10px;
+    height: 100%;
+    bottom: 0px;
+}
+
+/* Estilizar a lista de links */
+nav ul li{
+    float: left; /* Tira a lista da horizontal */
+    padding: 1em; /* Para ajustar o espaçamento entre os itens */
+    font-size: 1.5em;
+    list-style: none; /* Tira a marcação que fica do lado nas listas */
+}
+
+/* Remover o sublinado que fica quando poe a tag anchor (pra link) */
+nav ul li a{
+    text-decoration: none;
+    color: #a924ec;
+}
+
+/* hover => adiciona uma cor ao texto quando passa o mouse em cima */
+nav ul li a:hover{ 
+    color: #204fec;
+}
+
+
+
